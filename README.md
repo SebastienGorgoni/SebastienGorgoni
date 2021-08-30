@@ -6,8 +6,8 @@ I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) 
 
 * 📫 How to reach me: sebastien.gorgoni@gmail.com
 
-####Languages & Tools:
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+#### Languages & Tools:
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 <!--
 **SebastienGorgoni/SebastienGorgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
