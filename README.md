@@ -6,7 +6,7 @@ I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) 
 
 * 📫 How to reach me: sebastien.gorgoni@gmail.com
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100" height="100">
+<img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy-downsized-large.gif" width="100" height="100">
 
 ![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
