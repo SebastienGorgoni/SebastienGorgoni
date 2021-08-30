@@ -2,14 +2,12 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiengorgoni/)
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sebastien.gorgoni@gmail.com)
-
 I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) at [HEC Lausanne](https://www.unil.ch/hec/en/home.html). I aspire to work in the asset management or trading industry.
 
 * 📫 How to reach me: sebastien.gorgoni@gmail.com
 
 ####Languages & Tools:
-
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <!--
 **SebastienGorgoni/SebastienGorgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
