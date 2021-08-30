@@ -6,6 +6,7 @@ I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) 
 
 * 📫 How to reach me: sebastien.gorgoni@gmail.com
 
+![Alt Text](https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy-downsized-large.gif)
 
 ![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif =250x250))
 
@@ -17,7 +18,7 @@ I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) 
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 <!--
-![Alt Text](https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy-downsized-large.gif)
+
 **SebastienGorgoni/SebastienGorgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Alt Text](https://media.giphy.com/media/TJmlHvss5MVIyp1XZp/giphy.gif?cid=ecf05e47qgcvp475kgnzhw2048y4uq3r0xxbautrih58zeyu&rid=giphy.gif&ct=g)
