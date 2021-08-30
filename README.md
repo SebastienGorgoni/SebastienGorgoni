@@ -2,6 +2,7 @@
 
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 <!--
 **SebastienGorgoni/SebastienGorgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
