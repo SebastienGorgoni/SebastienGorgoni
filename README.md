@@ -6,7 +6,7 @@ I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) 
 
 * 📫 How to reach me: sebastien.gorgoni@gmail.com
 
-![Alt Text](https://media.giphy.com/media/TJmlHvss5MVIyp1XZp/giphy.gif?cid=ecf05e47qgcvp475kgnzhw2048y4uq3r0xxbautrih58zeyu&rid=giphy.gif&ct=g)
+![Alt Text](https://giphy.com/gifs/JtBZm3Getg3dqxK0zP)
 
 #### Languages & Tools:
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -16,6 +16,7 @@ I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) 
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 <!--
+![Alt Text](https://media.giphy.com/media/TJmlHvss5MVIyp1XZp/giphy.gif?cid=ecf05e47qgcvp475kgnzhw2048y4uq3r0xxbautrih58zeyu&rid=giphy.gif&ct=g)
 **SebastienGorgoni/SebastienGorgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
