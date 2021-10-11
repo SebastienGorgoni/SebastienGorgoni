@@ -1,11 +1,11 @@
-### Hey there 👋
+### Welcome to my repository!
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiengorgoni/)
 
 I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) at [HEC Lausanne](https://www.unil.ch/hec/en/home.html). I aspire to work in the asset management or trading industry.
 
-* 🌱 I’m currently learning C++ and MATLAB
-* 📫 How to reach me: sebastien.gorgoni@gmail.com
+* I’m currently learning C++ and MATLAB
+* How to reach me: sebastien.gorgoni@gmail.com
 
 #### Languages & Tools:
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
