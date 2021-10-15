@@ -4,8 +4,8 @@
 
 I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) at [HEC Lausanne](https://www.unil.ch/hec/en/home.html). I aspire to work in the asset management or trading industry.
 
-* I’m currently learning C++ and MATLAB
-* Currently working on "Style rotation on Swiss long-only equity factors"
+* Currently learning C++ and MATLAB
+* Currently working on "Style rotation on Swiss long-only equity factors" using Python/MATLAB
 * How to reach me: sebastien.gorgoni@gmail.com
 
 #### Languages & Tools:
