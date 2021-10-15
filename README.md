@@ -15,9 +15,10 @@ I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) 
 
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="300">
+
 
 <!--
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="300">
 
 **SebastienGorgoni/SebastienGorgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
