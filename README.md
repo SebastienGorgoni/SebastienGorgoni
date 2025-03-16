@@ -2,10 +2,8 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiengorgoni/)
 
-I am Sebastien Gorgoni, a Master's student in Finance (Asset & Risk Management) at [HEC Lausanne](https://www.unil.ch/hec/en/home.html). I aspire to work in the asset management or trading industry.
+I'm Sebastien, a curious quant, always on the hunt to crunch any numbers!
 
-* Currently learning C++ and MATLAB
-* Currently working on "Dynamic Hedging Strategies for Fixed Income Funds" using Python
 * How to reach me: sebastien.gorgoni@gmail.com
 
 #### Languages & Tools:
